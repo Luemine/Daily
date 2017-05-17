@@ -1,5 +1,0 @@
-POST https://discordapp.com/api/webhooks/314436361677701131/VBLQP8C-PXHjb2hOfeJUzuXgVzbAd3ztwUYyD2wg00NG7az9ckh9nqLST0rgRU8FlUgY
-Content-type: application/json
-{
-    "text": "Hello @everyone! Friendly reminder to do you faction dailies when you can. We need you faction insignias :please:"
-}
